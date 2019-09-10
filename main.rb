@@ -1,6 +1,8 @@
 require './lib/gate'
+require './lib/circuit'
 require './lib/nand'
 require './lib/not'
 require './lib/and'
 require './lib/or'
 require './lib/xor'
+require './lib/half_adder'
